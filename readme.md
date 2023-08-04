@@ -10,7 +10,7 @@ valid answer.
 
 1\. Make sure you have Python installed on your system. 2. Open a
 terminal or command prompt in the directory where the \`question.py\`
-script is located. 3. Run the script using the command: \$ python3
+script is located. 3. Run the script using the command: \$ python
 question.py
 
 4\. Enter your desired input string when prompted.
